@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 Hello, GitHub! 👋
 
-I'm William, a student at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
+I'm William, a senior at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning React, NextJS, and TypeScript and using those technologies to create an ecomerce web application together.
+- As for my goals, my ultimate goal is to work as a software engineer with a company.  For now my shorter term goals are to become proficient with React, NextJS, and TypeScript in order to add them to the utiltiy belt of languages, tech, and skills I already have.
+- Ask me about my opinion about a project you or I are working on or, ask me about my dream project and I'll tell you all about it.
 
-## Technologies and Tools
+## Languages, Technologies, and Skills
 ### Languages
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -58,7 +58,9 @@ I'm William, a student at Brigham Young University-Idaho interested in Software 
 </div>
 - Proficient in: MySql, Microsoft Sql Server, Google Cloud, NodeJS, React, Git, Github
 
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+### Skills
+- Problem Solving, Critical Thinking, Attention to Detail, Project Managment, Communication, Learning 
+
 
 ## Let's Connect!
 
