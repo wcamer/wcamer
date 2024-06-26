@@ -61,7 +61,17 @@ I'm William, a senior at Brigham Young University-Idaho interested in Software D
 - Proficient in: MySql, Microsoft Sql Server, Google Cloud, NodeJS, React, Git, Github
 
 ### Skills
-- Problem Solving, Critical Thinking, Attention to Detail, Project Managment, Communication, Learning 
+- Problem Solving, Critical Thinking, Attention to Detail, Project Managment, Communication, Learning
+
+## Recent Projects
+- All though I like to think of every project as a project I'm proud of, here are some that I really like and some I'm working on currently.  Try them out and tell me what you think!
+#### In Development
+- [Handcrafted Haven](https://github.com/wcamer/WDD-430-Handcrafted-Haven)
+
+#### Favorites
+- [Purchase Power Tool](https://github.com/wcamer/purchasePowerTool/tree/master/src)
+- [SorryJava](https://github.com/wcamer/SorryJava/tree/master/src)
+- [Trick21](https://github.com/wcamer/SorryJava/tree/master/src)
 
 
 ## Let's Connect!
