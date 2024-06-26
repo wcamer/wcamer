@@ -79,3 +79,8 @@ I'm William, a senior at Brigham Young University-Idaho interested in Software D
 - Here is my [LinkedIn](www.linkedin.com/in/william-cameron-000) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wcamer&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcamer&langs_count=20&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wcamer)
+![trophy](https://github-profile-trophy.vercel.app/?username=wcamer)
