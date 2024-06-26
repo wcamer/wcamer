@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **wcamer/wcamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 
 # <Your Name Here>
 
-Hello, GitHub! 👋
+# Hello, GitHub! 👋
 
 I'm William, a senior at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
 
