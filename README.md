@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # Hello, GitHub! 👋
 
-I'm William, a senior at Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
+I'm William, a recent grad Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
 
 ## About Me
 - I love how technology, when used in helpful situations, can truly improve the quality of life for people.  In a world full of all types of influnces, I want to put my knowledge, gifts, and skills to help propel good influences and help people by providing good services and products.
