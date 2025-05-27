@@ -26,7 +26,7 @@ I'm William, a recent grad Brigham Young University-Idaho interested in Software
 
 ## About Me
 - I love how technology, when used in helpful situations, can truly improve the quality of life for people.  In a world full of all types of influnces, I want to put my knowledge, gifts, and skills to help propel good influences and help people by providing good services and products.
-- I'm currently learning React, NextJS, and TypeScript and using those technologies to create an ecomerce web application together.
+- The project that I'm most proud of is my project of Doctor Appointment Scheduler (DAS) made with .NET Blazor.
 - As for my goals, my ultimate goal is to work as a software engineer with a company.  For now my shorter term goals are to become proficient with React, NextJS, and TypeScript in order to add them to the utiltiy belt of languages, tech, and skills I already have.
 - Ask me about my opinion about a project you or I are working on or, ask me about my dream project and I'll tell you all about it.
 
@@ -58,7 +58,7 @@ I'm William, a recent grad Brigham Young University-Idaho interested in Software
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
    
 </div>
-- Proficient in: MySql, Microsoft Sql Server, Google Cloud, NodeJS, React, Git, Github
+- Proficient in: MySql, Microsoft Sql Server, Google Cloud, NodeJS, React, Git, Github, .NET
 
 ### Skills
 - Problem Solving, Critical Thinking, Attention to Detail, Project Managment, Communication, Learning
