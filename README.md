@@ -27,7 +27,7 @@ I'm William, a recent grad Brigham Young University-Idaho interested in Software
 ## About Me
 - I love how technology, when used in helpful situations, can truly improve the quality of life for people.  In a world full of all types of influnces, I want to put my knowledge, gifts, and skills to help propel good influences and help people by providing good services and products.
 - The project that I'm most proud of is my project of Doctor Appointment Scheduler (DAS) made with .NET Blazor.
-- As for my goals, my ultimate goal is to work as a software engineer with a company.  For now my shorter term goals are to become proficient with React, NextJS, and TypeScript in order to add them to the utiltiy belt of languages, tech, and skills I already have.
+- As for my goals, my ultimate goal is to work as a software engineer with a company.  For now my shorter term goals are to become proficient with more technologies and languages in order to add them to the utiltiy belt of languages, tech, and skills I already have.
 - Ask me about my opinion about a project you or I are working on or, ask me about my dream project and I'll tell you all about it.
 
 ## Languages, Technologies, and Skills
@@ -56,20 +56,32 @@ I'm William, a recent grad Brigham Young University-Idaho interested in Software
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"  title="Blazor" alt="Blazor" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40" />
+          
    
 </div>
-- Proficient in: MySql, Microsoft Sql Server, Google Cloud, NodeJS, React, Git, Github, .NET
+- Proficient in: MySql, Microsoft Sql Server, Google Cloud, NodeJS, React, Git, Github, .NET, .NET Blazor, NextJS
 
 ### Skills
-- Problem Solving, Critical Thinking, Attention to Detail, Project Managment, Communication, Learning
+- Requirement Analysis & Traceability
+- Project & Time Managment (Sprint Milestones/Deadlines)
+- Problem Solving
+- Critical Thinking
+- Attention to Detail
+- Communication
+- Learning
 
 ## Recent Projects
-- All though I like to think of every project as a project I'm proud of, here are some that I really like and some I'm working on currently.  Try them out and tell me what you think!
+- All though I like to think of every project as a project I'm proud of, here are some projects (that I can talk about) that I really like, working on currently, or want to make in the future.  Try them out and tell me what you think!
 #### In Development
-- [Doctor Appointment Scheduler "DAS"](https://github.com/wcamer/das)
+- Hogwarts Battle Clone (not published yet)
+- Salem Clone (not published yet)
 
 
 #### Favorites
+- [Doctor Appointment Scheduler "DAS"](https://github.com/wcamer/das)
 - [Car Service Scheduler (site)](https://carservicescheduler.azurewebsites.net/)
 - [Purchase Power Tool](https://github.com/wcamer/purchasePowerTool/tree/master/src)
 - [SorryJava](https://github.com/wcamer/SorryJava/tree/master/src)
