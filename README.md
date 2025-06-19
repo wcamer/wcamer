@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # <Your Name Here>
+https://devicon.dev/ is where I found all the icons 
 -->
 
 
 
 # Hello, GitHub! 👋
 
-I'm William, a recent grad Brigham Young University-Idaho interested in Software Development. Welcome to my GitHub profile!
+I'm William, a recent Brigham Young University-Idaho graduate in Software Development. Welcome to my GitHub profile!
 
 ## About Me
 - I love how technology, when used in helpful situations, can truly improve the quality of life for people.  In a world full of all types of influnces, I want to put my knowledge, gifts, and skills to help propel good influences and help people by providing good services and products.
